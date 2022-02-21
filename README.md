@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @IngridEspinoza
 - 👀 I’m interested in Computational Social Science
 - 🌱 I’m currently learning Natural Language Processing
-- 💞️ I’m looking to collaborate on all thing relatzed to CSS, specially text as data
+- 💞️ I’m looking to collaborate on all things relatzed to CSS, specially text as data
 - 📫 How to reach me https://www.polver.uni-konstanz.de/eckhard/team/ingrid-espinoza/
 
 <!---
